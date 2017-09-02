@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: chinikom-service-discovery
